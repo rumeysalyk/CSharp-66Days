@@ -1,0 +1,16 @@
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.exe
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.deps.json
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.runtimeconfig.json
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.runtimeconfig.dev.json
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.dll
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\ref\Example3.dll
+C:\Users\layik\Desktop\Pratikler\examples\Example3\bin\Debug\net5.0\Example3.pdb
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.csproj.AssemblyReference.cache
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.AssemblyInfoInputs.cache
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.AssemblyInfo.cs
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.csproj.CoreCompileInputs.cache
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.dll
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\ref\Example3.dll
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.pdb
+C:\Users\layik\Desktop\Pratikler\examples\Example3\obj\Debug\net5.0\Example3.genruntimeconfig.cache
