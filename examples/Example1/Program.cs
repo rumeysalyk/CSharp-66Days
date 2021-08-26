@@ -6,22 +6,12 @@ namespace Example1
     {
         static void Main(string[] args)
         {
-            int number =10,sum=0;
+            int number =1000,sum=0;
             
             for(int i=0;i<number;i++)
-            {
-
-                if(i%15==0)
-                {
+                if(i%3==0||i%5==0)
                     sum +=i;
-                    continue;
-                }
-                else if(i%3 == 0)
-                    sum +=i;
-                else if(i%5 == 0)
-                    sum +=i;
-            }
-
+                    
             Console.WriteLine(sum);
 
         }
